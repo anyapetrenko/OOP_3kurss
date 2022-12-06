@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Shop>
+    <Beer>
+        <id>1</id>
+        <name>Chernihivske</name>
+        <type>lager</type>
+        <alcohol>true</alcohol>
+        <manufacturer>Chernihiv manufacture</manufacturer>
+        <Ingredient>water</Ingredient>
+        <Ingredient>barley molt</Ingredient>
+        <Ingredient>corn</Ingredient>
+        <Ingredient>hops</Ingredient>
+        <Ingredient>yeast</Ingredient>
+        <Chars>
+            <brilliance>4.5</brilliance>
+            <revolutions>100</revolutions>
+            <filtered>true</filtered>
+            <nutritionValue>100</nutritionValue>
+            <containerVolume>100</containerVolume>
+            <containerMaterial>steel</containerMaterial>
+        </Chars>
+    </Beer>
+    <Beer>
+        <id>2</id>
+        <name>Lvovske</name>
+        <type>lager</type>
+        <alcohol>true</alcohol>
+        <manufacturer>Lviv manufacture</manufacturer>
+        <Ingredient>water</Ingredient>
+        <Ingredient>barley molt</Ingredient>
+        <Ingredient>corn</Ingredient>
+        <Ingredient>hops</Ingredient>
+        <Ingredient>yeast</Ingredient>
+        <Chars>
+            <brilliance>5.0</brilliance>
+            <revolutions>200</revolutions>
+            <filtered>true</filtered>
+            <nutritionValue>100</nutritionValue>
+            <containerVolume>100</containerVolume>
+            <containerMaterial>steel</containerMaterial>
+        </Chars>
+    </Beer>
+</Shop>
